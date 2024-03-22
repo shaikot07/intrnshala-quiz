@@ -9,5 +9,6 @@ This repository is created only for educational purposes. The repository include
 
 ######Take the quizzes, and your ranking will rise as you progress through the levels. These quizzes are based on best practices for applying for internships. The next level is now available to you.
 
+## Thanks Tanver Islam Tonmoy 
 ## Happy learning 🥳 
 
